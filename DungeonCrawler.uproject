@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5FA2D303-4FDF-4BCE-8E7A-58CEF5E0D996}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DungeonCrawler",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
